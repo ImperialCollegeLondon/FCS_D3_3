@@ -11,9 +11,7 @@ function [fea, fea_val, Um, numP] = getImageFeature(DAT,DAT_val,method,pcNum)
 %      fea: # <double> [??,??]
 %      what else?:
 %
-% @ Yuting Chen
-% Imperial College London
-% yuting.chen17@imperial.ac.uk
+%
 % Ref: Lu Haiping et al., Uncorrelated Multilinear Principal Component Analysis
 %      for Unsupervised Multilinear Subspace Learning
 % Required:
