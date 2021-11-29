@@ -8,8 +8,7 @@ function STATS = Main_OfflineCrossValidation(version,testConfig,filefolder)
 % STATS = Main_OfflineCrossValidation(version,testConfig,filefolder);
 %
 %
-% @ Yuting Chen
-% yuting.chen17@imperial.ac.uk
+% @ yuting
 
 
 mkdir(filefolder);
