@@ -3,8 +3,6 @@ function getGFS()
 %
 % 
 % 
-% @ Yuting Chen
-% Imperial College London
 % Source: https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs
 %
 % Headers: https://www.nco.ncep.noaa.gov/pmb/docs/headers/awpgfs/
